@@ -5,4 +5,4 @@ Received data covering Jan. 1, 2017 through Mar. 14, 2022. Data is at the daily 
 
 ## Project Specifications
 
-XML file names are formatted as: "WSH_DAILY_SNAPSHOT_ED_V03_YYMMDD.XML" (i.e. for Jan. 1, 2022: "WSH_DAILY_SNAPSHOT_ED_V03_20220101.XML").
+XML file names are formatted as: `WSH_DAILY_SNAPSHOT_ED_V03_YYMMDD.XML` (i.e. for Jan. 1, 2022: `WSH_DAILY_SNAPSHOT_ED_V03_20220101.XML`).
