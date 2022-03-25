@@ -1,4 +1,4 @@
 # convert-xml-to-csv
-HBS Research Assistant project to convert XML formatted files to CSV formats.
+HBS Research Assistant project to convert XML formatted files to CSV formats. Project completed for Professor Jonathan Wallen.
 
-## Short Summary
+Received data covering Jan. 1, 2017 through Mar. 14, 2022.
