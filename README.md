@@ -23,7 +23,7 @@ XML files are formatted as:
         `<earnings_date> </earnings_date>`  
         `<quarter> </quarter>`  
         `<fiscal_year> </fiscal_year>`  
-        `<earnings_date_status> </earnings_date_status>`  
-        `<time_of_day> </time_of_day>`  
+        `<earnings_date_status> </earnings_date_status>`  
+        `<time_of_day> </time_of_day>`  
     `</earnings>`  
 `</WallStreetHorizon>`
