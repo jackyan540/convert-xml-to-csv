@@ -30,5 +30,5 @@ XML files are formatted as:
         `<audit_source> </audit_source>`  
         `<disclaimer> </disclaimer>`  
     `</earnings>`  
-`</Source>`
+`</Source>`  
 `</WallStreetHorizon>`
