@@ -21,6 +21,6 @@ XML files are formatted as:
         `<stock_exchange> </stock_exchange>`  
         `<isin> </isin>`  
         `<earnings_date> </earnings_date>`  
-        `<quarter> </quarter>`  
+        `<quarter> </quarter>`  
     `</earnings>`  
 `</WallStreetHorizon>`
