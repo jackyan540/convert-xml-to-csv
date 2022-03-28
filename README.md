@@ -15,7 +15,7 @@ XML files are formatted as:
 `<WallStreetHorizon>`  
     `<earnings>`  
         `<event_id> </event_id>`  
-    <company_id> </company_id>
+        `<company_id> </company_id>`
     <stock_symbol> </stock_symbol>
     <company_name> </company_name>
     <stock_exchange> </stock_exchange>
