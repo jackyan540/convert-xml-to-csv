@@ -25,5 +25,6 @@ XML files are formatted as:
         `<fiscal_year> </fiscal_year>`  
         `<earnings_date_status> </earnings_date_status>`  
         `<time_of_day> </time_of_day>`  
+        `<quarter_end_date> </quarter_end_date>`  
     `</earnings>`  
 `</WallStreetHorizon>`
