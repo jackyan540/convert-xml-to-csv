@@ -28,5 +28,5 @@ XML files are formatted as:
         `<quarter_end_date> </quarter_end_date>`  
         `<audit_source> </audit_source>`  
         `<disclaimer> </disclaimer>`  
-    `</earnings>`  
+    `</earnings>`  
 `</WallStreetHorizon>`
