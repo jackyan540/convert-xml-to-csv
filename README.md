@@ -22,5 +22,8 @@ XML files are formatted as:
         `<isin> </isin>`  
         `<earnings_date> </earnings_date>`  
         `<quarter> </quarter>`  
-    `</earnings>`  
+        `<fiscal_year> </fiscal_year>`  
+        `<earnings_date_status> </earnings_date_status>`  
+        `<time_of_day> </time_of_day>`  
+    `</earnings>`  
 `</WallStreetHorizon>`
