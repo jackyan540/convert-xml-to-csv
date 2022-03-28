@@ -18,9 +18,9 @@ XML files are formatted as:
         `<company_id> </company_id>`  
         `<stock_symbol> </stock_symbol>`  
         `<company_name> </company_name>`  
-    <stock_exchange> </stock_exchange>
-    <isin> </isin>
-    <earnings_date> </earnings_date>
-    <quarter> </quarter>
-  </earnings>
-</WallStreetHorizon>
+        `<stock_exchange> </stock_exchange>`  
+        `<isin> </isin>`  
+        `<earnings_date> </earnings_date>`  
+        `<quarter> </quarter>`
+    `</earnings>`
+`</WallStreetHorizon>`
