@@ -19,7 +19,7 @@ XML files are formatted as:
         `<stock_symbol> </stock_symbol>`  
         `<company_name> </company_name>`  
         `<stock_exchange> </stock_exchange>`  
-        `<isin> </isin>`  
+        `<isin> </isin>`  
         `<earnings_date> </earnings_date>`  
         `<quarter> </quarter>`
     `</earnings>`
