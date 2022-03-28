@@ -12,7 +12,7 @@ XML file names are formatted as: `WSH_DAILY_SNAPSHOT_ED_V03_YYMMDD.xml` (i.e. fo
 Data is organized by year and file format. (i.e. for an XML file dated Jan. 1, 2022, the file path is: `2022\xml\WSH_DAILY_SNAPSHOT_ED_V03_20220101.xml` and for the file path for the corresponding csv file is: `2022\csv\WSH_DAILY_SNAPSHOT_ED_V03_20220101.csv`).
 
 XML files are formatted as:
-<WallStreetHorizon>
+`<WallStreetHorizon>`  
   <earnings>
     <event_id> </event_id>
     <company_id> </company_id>
