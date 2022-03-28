@@ -13,7 +13,8 @@ Data is organized by year and file format. (i.e. for an XML file dated Jan. 1, 2
 
 XML files are formatted as:  
 `<WallStreetHorizon>`  
-    `<earnings>`  
+`<Source FileName="WSH_EARNINGS_V03" CreateTime="MM/DD/YYYY hh:mm:ss AM">`  
+    `<earnings>`  
         `<event_id> </event_id>`  
         `<company_id> </company_id>`  
         `<stock_symbol> </stock_symbol>`  
