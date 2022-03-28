@@ -27,6 +27,6 @@ XML files are formatted as:
         `<time_of_day> </time_of_day>`  
         `<quarter_end_date> </quarter_end_date>`  
         `<audit_source> </audit_source>`  
-        `<disclaimer> </disclaimer>`  
+        `<disclaimer> </disclaimer>`  
     `</earnings>`  
 `</WallStreetHorizon>`
